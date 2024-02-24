@@ -1,0 +1,8 @@
+{
+  "packageRules": [
+    {
+      "groupName": "unjs libraries",
+      "matchSourceUrlPrefixes": ["https://github.com/unjs"]
+    }
+  ]
+}
